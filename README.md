@@ -1,1 +1,1 @@
-# Kaggle---Exploring-Mental-Health---My-Solution
+# Kaggle_Exploring-Mental-Health_My-Solution
